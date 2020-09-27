@@ -1,0 +1,34 @@
+TYSM FOR USING BOT MAKER V1! 
+Here we go!
+
+ʙᴇꜰᴏʀᴇ ᴛʜᴀᴛ ɪɴꜱᴛᴀʟʟ ɴᴏᴅᴇ.ᴊꜱ ɪꜰ ʏᴏᴜ ʜᴀᴠᴇɴ'ᴛ ᴅɪᴅ ɪᴛ ᴀʟʀᴇᴀᴅʏ!
+
+1. YOU NEED THESE PACKAGES:
+-discord.js
+-enmap
+-querystring
+-http
+-express
+-async
+-snekfetch
+-quick.db
+2. After Installing All Packages, Open File *config.json*
+3. You Are Going To See This -
+
+{
+    "token": "PUT.TOKEN.HERE",
+    "prefix":"PUT.PREFIX.HERE",
+    "embed":"#8000FF",
+    "owner": "PUT.YOUR.ID.HERE"
+  }
+
+Here Please Put Your -
+- Bot Token
+- Bot Prefix (! , . % # Or Whatever Prefix You Want)
+- Your Discord ID
+.
+
+4. Open *bot.js* And Put Bot Token The End Of The File. (client.login('Put.Token.Here'))
+ 
+5. Open cmd! Type - node bot.js
+
